@@ -3,6 +3,7 @@ tiene 23 años y nacio en Mexico,
 y me gustaria ir a España
 Hoy hablaremos de su vida y obra maestra.
 practicando reset --soft
+Soy una persona que contribuye a este proyecto open source
 
 NO ENTIENDO AUN 
 agrego no pasa nada
