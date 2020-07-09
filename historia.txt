@@ -6,6 +6,9 @@ practicando reset --soft
 Soy una persona que contribuye a este proyecto open source, contribui 2
 
 Master 1
+
+Master 2
+
 NO ENTIENDO AUN 
 agrego no pasa nada
 Mensaje de contribucion 
