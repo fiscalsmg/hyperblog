@@ -1,4 +1,4 @@
-# # hyperblog  🖤
+# hyperblog  🖤
 Un blog increible para el curso de Git y Github
 En este curso he aprendido muchas cosas.
 
