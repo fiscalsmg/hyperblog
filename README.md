@@ -7,3 +7,4 @@ En este curso he aprendido muchas cosas.
 - Es todo un mundo
 - c: 
 * Creado por el increible platzi team
+* Incluye varios ejemplos
