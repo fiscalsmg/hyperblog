@@ -8,3 +8,4 @@ En este curso he aprendido muchas cosas.
 - c: 
 * Creado por el increible platzi team
 * Incluye varios ejemplos
+* Disponible para toda las edades
