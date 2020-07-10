@@ -6,4 +6,6 @@ En este curso he aprendido muchas cosas.
 - Puedes hacer esto y muchas cosas mas
 - Es todo un mundo
 - c: 
-* Creado por el increible platzi team
+* Creado por el increible team
+* Incluye varios ejemplos
+* Disponible para toda las edades
